@@ -14,7 +14,7 @@ Another Python program (collect\_weather - I'm not very good with names) collect
 
 With the weather data all conveniently available from the MQTT broker ("one-stop shopping"), the front-end of this setup, ZathPanel *merely* subscribes via MQTT to the weather data updates and displays the data as it comes in (and handles talking to the Hue Bridge when I want to change the lights).
 
-![ZathPanel live screenshot](http://carlrj.com/zathpanel/zathpanel.png)
+[![ZathPanel](http://carlrj.com/zathpanel/zathpanel.png)](http://carlrj.com/zathpanel)
 
 ## The name
 
