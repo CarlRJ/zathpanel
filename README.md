@@ -21,7 +21,7 @@ With the weather data all conveniently available from the MQTT broker ("one-stop
 The name came about because this is the primary function of the Raspberry Pi involved, which is named Zathras, after a character on Babylon V.
 
 > "Cannot say. Saying, I would know. Do not know, so cannot say."  
-> -- Zathras, Bablyon 5: "[War Without End, Pt. 1](https://en.wikipedia.org/wiki/War_Without_End_(Babylon_5))"
+> —[Zathras](https://en.wikipedia.org/wiki/Zathras), [Bablyon 5](https://en.wikipedia.org/wiki/Babylon_5): "[War Without End, Pt. 1](https://en.wikipedia.org/wiki/War_Without_End_(Babylon_5))"
 >
 >  (On being asked whether he _couldn't_ answer, or _wouldn't_ answer, a question.)
 
